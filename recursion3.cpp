@@ -1,7 +1,9 @@
+/*Sort an array A using Quick Sort.
+Change in the input array itself. So no need to return or print anything.*/
 
 #include <iostream>
 #include <string>
-
+#include<vector>
 using namespace std;
 
 
